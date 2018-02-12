@@ -4,8 +4,12 @@ A web scraper in python that scrapes the initial 20 pages of Tutorials Point's I
 To run the file, navigate to project directory and type in the following command :
  
  	scrapy runspider scraper.py -o input_grakn_dataset_1.json
+
+Output will be in the following json file:
 	
-Use the following link to format the json file : 
+	input_grakn_dataset_1.json
+	
+Use the following link to format the output json file : 
 
 	https://www.freeformatter.com/json-formatter.html
 	
